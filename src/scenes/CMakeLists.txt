@@ -1,0 +1,1 @@
+target_sources(SDLShenanigans PRIVATE TestScene.cpp)
